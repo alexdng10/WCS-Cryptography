@@ -44,13 +44,13 @@ function App() {
                 <NavLink to="/Shawn">Shawn</NavLink>
                 <NavLink to="/Web">Web</NavLink>
                 <NavLink to="/Alex">Alex</NavLink>
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/WCS-Cryptography">Home</NavLink>
               </nav>
             </header>
             <main>
               <div className="content">
                 <Routes>
-                  <Route path="/" element={<Home />} />
+                  <Route path="/WCS-Cryptography" element={<Home />} />
                   {/* Other routes */}
                   <Route path="/idkLol" element={<Duck />} />
                   <Route path="/Web" element={<Web />} />
@@ -63,7 +63,7 @@ function App() {
           </>
         )}
       </div>
-    </BrowserRouter>
+      </BrowserRouter>
   );
 }
 

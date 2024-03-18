@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WCS-Cryptography/static/css/main.1dd8a72c.css",
-    "main.js": "/WCS-Cryptography/static/js/main.48f7530c.js",
+    "main.css": "/WCS-Cryptography/static/css/main.01cd842a.css",
+    "main.js": "/WCS-Cryptography/static/js/main.b47f2d91.js",
     "static/media/Screenshot 2024-03-07 at 1.29.02 PM.png": "/WCS-Cryptography/static/media/Screenshot 2024-03-07 at 1.29.02 PM.dd424b7f3258f8f59ed4.png",
     "static/media/quack.png": "/WCS-Cryptography/static/media/quack.fb543a4bb05bc083bd38.png",
     "static/media/pc_pic.png": "/WCS-Cryptography/static/media/pc_pic.5767f71197e37d1e41ac.png",
@@ -9,17 +9,18 @@
     "static/media/MassCipher.png": "/WCS-Cryptography/static/media/MassCipher.a8caac486c9ad4ebe4bf.png",
     "static/media/SanvidDH.png": "/WCS-Cryptography/static/media/SanvidDH.8d6e9e133bfd2ac4aa2c.png",
     "static/media/Vanson-KeyGen.png": "/WCS-Cryptography/static/media/Vanson-KeyGen.91523352938e778978b7.png",
+    "static/media/white-text3.png": "/WCS-Cryptography/static/media/white-text3.d7507b5f95b9d1f0c59e.png",
     "static/media/Vanson-Encryption.png": "/WCS-Cryptography/static/media/Vanson-Encryption.18a28089e70e605452a7.png",
     "static/media/Process.png": "/WCS-Cryptography/static/media/Process.3cb29ee41a4c330ba5e9.png",
     "static/media/Key Gen Process.png": "/WCS-Cryptography/static/media/Key Gen Process.a56aa835489a2b7a230f.png",
     "static/media/good times rg.otf": "/WCS-Cryptography/static/media/good times rg.a86d4f7f5cdb8cf2e409.otf",
     "static/media/wcs_logo_transparent_background2.png": "/WCS-Cryptography/static/media/wcs_logo_transparent_background2.4daa1a341f90489a93c9.png",
     "index.html": "/WCS-Cryptography/index.html",
-    "main.1dd8a72c.css.map": "/WCS-Cryptography/static/css/main.1dd8a72c.css.map",
-    "main.48f7530c.js.map": "/WCS-Cryptography/static/js/main.48f7530c.js.map"
+    "main.01cd842a.css.map": "/WCS-Cryptography/static/css/main.01cd842a.css.map",
+    "main.b47f2d91.js.map": "/WCS-Cryptography/static/js/main.b47f2d91.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dd8a72c.css",
-    "static/js/main.48f7530c.js"
+    "static/css/main.01cd842a.css",
+    "static/js/main.b47f2d91.js"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WCS-Cryptography/static/css/main.4fcb9b3f.css",
+    "main.css": "/WCS-Cryptography/static/css/main.1dd8a72c.css",
     "main.js": "/WCS-Cryptography/static/js/main.48f7530c.js",
     "static/media/Screenshot 2024-03-07 at 1.29.02 PM.png": "/WCS-Cryptography/static/media/Screenshot 2024-03-07 at 1.29.02 PM.dd424b7f3258f8f59ed4.png",
     "static/media/quack.png": "/WCS-Cryptography/static/media/quack.fb543a4bb05bc083bd38.png",
@@ -15,11 +15,11 @@
     "static/media/good times rg.otf": "/WCS-Cryptography/static/media/good times rg.a86d4f7f5cdb8cf2e409.otf",
     "static/media/wcs_logo_transparent_background2.png": "/WCS-Cryptography/static/media/wcs_logo_transparent_background2.4daa1a341f90489a93c9.png",
     "index.html": "/WCS-Cryptography/index.html",
-    "main.4fcb9b3f.css.map": "/WCS-Cryptography/static/css/main.4fcb9b3f.css.map",
+    "main.1dd8a72c.css.map": "/WCS-Cryptography/static/css/main.1dd8a72c.css.map",
     "main.48f7530c.js.map": "/WCS-Cryptography/static/js/main.48f7530c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fcb9b3f.css",
+    "static/css/main.1dd8a72c.css",
     "static/js/main.48f7530c.js"
   ]
 }

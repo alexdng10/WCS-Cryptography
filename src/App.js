@@ -57,9 +57,8 @@ function App() {
                 <NavLink to="/Alex">Alex</NavLink>
                 <NavLink to="/Shawn">Shawn</NavLink>
                 <NavLink to="/Web">Web</NavLink>
-                <NavLink to="/Alex">Alex</NavLink>
                 <NavLink to="/WCS-Cryptography">Home</NavLink>
-                <NavLink to="/">Home</NavLink>
+               
               </nav>
             </header>
             <main>
